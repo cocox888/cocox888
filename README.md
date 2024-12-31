@@ -1,9 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Rostislav Semenov&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+</p> -->
 
 # 💫 About Me
-
 ### I'm a Full-stack developer with 6+years of professional experiences in building modern web applications.    As a full-stack developer, I actively seek out CHALLENGES because I believe they present valuable opportunities for personal and professional growth
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Open Source Contributor from **Ukraine**
