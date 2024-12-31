@@ -385,7 +385,7 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
 
-# 🔥 3D Contributions Chart
+<!-- # 🔥 3D Contributions Chart -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cocox888/cocox888/output-3d-contrib/night.svg" />
