@@ -388,11 +388,11 @@
 
 # 🔥 3D Contributions Chart
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cocox888/cocox888/output-3d-contrib/night.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/day.svg" />
   <img alt="3D Contributions Chart" src="https://raw.githubusercontent.com/cocox888/cocox888/output-3d-contrib/profile-night-green.svg" />
-</picture>
+</picture> -->
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <!-- 
