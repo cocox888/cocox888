@@ -297,118 +297,20 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 -->
 
-# ⚡ Achievements & Stackoverflow
-
-<table>
-  <tr>
-    <!-- Uncomment and use this if you want to display the Stack Overflow card -->
-    <!-- <td>
-      <img src="https://stackoverflow-card.vercel.app/?userID=22938645&theme=dracula" alt="Stack Overflow Card" />
-    </td> -->
-    <td>
-      <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
-    </td>
-    <!-- <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=192739586" alt="GitHub Stack Overflow" />
-    </td> -->
-  </tr>
-</table>
-
-
-<!-- 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
 
 
 
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<!-- 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />HacktoberFest Badge</h1>
 
-[![Badges](https://holopin.me/dpvasani)](https://holopin.io/@dpvasani)
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<!-- 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
 
-# ⌛ GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=cocox888&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
 
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<!-- 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
-<!-- 
- <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" /> GitHub Stats &  GitHub Most Used Packages</h1>
- 
-<table>
-  <tr>
-    <td>
-      <a href="https://quine.sh">
-        <img src="https://stats.quine.sh/dpvasani/github?theme=dark" alt="dpvasani's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://quine.sh?utm_source=widgets&utm_campaign=dpvasani">
-        <img src="https://stats.quine.sh/dpvasani/dependencies?theme=dark" alt="dpvasani's GitHub Dependencies" />
-      </a>
-    </td>
-  </tr>
-</table>
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<!-- 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
-<!--
-# ⌛GitHub Languages & Topic Over Time
-<table>
-  <tr>
-    <td>
-      <a href="https://quine.sh">
-        <img src="https://stats.quine.sh/dpvasani/languages-over-time?theme=dark" alt="dpvasani's GitHub Languages Over Time" />
-      </a>
-    </td>
-    <td>
-      <a href="https://quine.sh">
-        <img src="https://stats.quine.sh/dpvasani/topics-over-time?theme=dark" alt="dpvasani's GitHub Topics Over Time" />
-      </a>
-    </td>
-  </tr>
-</table>
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
--->
-<!-- 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
 
-<!-- # 🔥 3D Contributions Chart -->
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cocox888/cocox888/output-3d-contrib/night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpvasani/dpvasani/output-3d-contrib/day.svg" />
-  <img alt="3D Contributions Chart" src="https://raw.githubusercontent.com/cocox888/cocox888/output-3d-contrib/profile-night-green.svg" />
-</picture> -->
 
-<img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<!-- 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
--->
 
-<!--
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/dpvasani65?v=1)
-![LeetCode Stats](https://leetcard.jacoblin.cool/JOYDEEP_MALLICK?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=silent_Joy)](https://codeforces.com/profile/silent_Joy)
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)](https://www.codechef.com/users/joy2022)
--->
+
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--
----
-[![](https://visitcount.itsvg.in/api?id=dpvasani&icon=0&color=0)](https://visitcount.itsvg.in)
--->
